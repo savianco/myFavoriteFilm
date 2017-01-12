@@ -1,0 +1,66 @@
+link wallpapers
+https://wall.alphacoders.com/tags.php?tid=13105&lang=Spanish
+
+link web oficial nuwva pestaña
+https://www.facebook.com/TitanicMovie/
+
+link trailer youtube ENGLISH,  a pantalla completa (borrar watch? y sustituir = por /)
+https://www.youtube.com/watch?v=2e-eXJ6HgkQ
+
+link trailer youtube ESPAÑOL, a pantalla completa (borrar watch? y sustituir = por /)
+https://www.youtube.com/watch?v=FiRVcExwBVA&t 
+
+para reproduccion automática de links a videos de youtube, añadir:  ?rel=0&autoplay=1 
+
+para insertar el video en la propia web sin repr.externo:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiRVcExwBVA" frameborder="0" allowfullscreen></iframe>
+
+
+Titanic al detalle documental completo:
+https://www.youtube.com/watch?v=Mjx2fm9Xb2k    OK
+
+
+
+DOCUMENTAL COMO SE HIZO MAKING-OF
+https://www.youtube.com/watch?v=JiCNsTzWiwE&t    OK
+
+TRAILER MAKING OF
+https://www.youtube.com/watch?v=CpVwmMGduqk    OK
+
+CELINE DION PREMIO BANDA SONORA
+https://www.youtube.com/watch?v=DyahS_p725I    OK
+
+ESCENAS ELIMINADAS
+https://www.youtube.com/watch?v=eMcL2wOOiQM    OK
+
+IMAGENES REALES R.M.S.TITANIC 1912
+https://www.youtube.com/watch?v=8wTlureUMP8     OK
+
+ARCHIVO BIBLIOGRAFICO: The full version of "Olympic Class - The Story of Olympic, Titanic and Britannic as seen on Film 1908 - 1937"
+https://www.youtube.com/watch?v=b9o4pW51kVE        OK
+
+
+
+
+
+FORO DE ACTUALIDAD DEL TITANIC
+http://titanicexplora.mforos.com/         OK
+
+INESTIGANDO LOS RESTOS DEL TITANIC, NATIONAL GEOGHAPIC
+JAMES CAMERON VUELVE AL TITANIC NATIONAL GEOGRAPHIC
+http://www.documaniatv.com/historia/james-cameron-vuelve-al-titanic-video_2cbfbea0a.html
+https://www.youtube.com/watch?v=lXpR08yrtvw        OK
+
+MISTERIOS DEL TITANIC
+https://www.youtube.com/watch?v=lUnQ5yCywfU
+https://www.youtube.com/watch?v=NkCS1rWI0ZQ
+
+100 ANIVERSARIO 1912 - 2012
+https://www.youtube.com/watch?v=V6cl3GsxS-U
+
+TITANIC II para 2018
+https://www.youtube.com/v/G9GJDhd_JPo?rel=0&autoplay=1     OK
+
+
+
+
